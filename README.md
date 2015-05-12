@@ -1,5 +1,6 @@
 
 
+
 MapReduce Lite is a C++ implementation of the MapReduce programming paradigm.
 
 ## Pros
